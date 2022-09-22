@@ -6,6 +6,14 @@ description: Joining the Stateset Validator Set
 
 **Stateset Network is currently partnering with validators for our stateset-1-testnet. If you are interested in joining the validator set please get in touch.**
 
+****
+
+**Download the Stateset Binary from:**
+
+****[**https://github.com/stateset/core/releases**](https://github.com/stateset/core/releases)****
+
+****
+
 If you decide you want to turn your node into a validator, you will first need to add a wallet to your keyring.
 
 While you can add an existing wallet through your seed phrase, we will create a new wallet in this example (replace KEY\_NAME with a name of your choosing):
